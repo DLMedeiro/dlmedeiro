@@ -4,7 +4,7 @@
 
 ⚡ I love helping people, solving puzzles, and creating solutions. ⚡
 
-With the knowledge base I am building, I want to develop Web and Software tools to create and solve issues within our education and/or healthcare systems. 
+With the knowledge base I am building, I want to create software solutions that have a positive impact on healthcare and/or education systems.
 
 
 #### My Skill Set
