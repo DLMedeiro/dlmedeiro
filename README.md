@@ -1,4 +1,4 @@
-## Hello! I’m Danielle Medeiros Aranda.  👋
+## Hello! I’m Danielle Aranda.  👋
 
 🌱 I'm currently a student with the Springboard Software Engineering Bootcamp and excited to be joining the developer community. 🌱
 
