@@ -1,11 +1,10 @@
 ## Hello! I’m Danielle Aranda.  👋
 
-🌱 I'm currently a student with the Springboard Software Engineering Bootcamp and excited to be joining the developer community. 🌱
+I am a Certified Software Engineer with a background in Industrial Engineering.
 
-⚡ I love helping people, solving puzzles, and creating solutions. ⚡
+I’ve spent seven years in the tech industry focusing on the improvement of manufacturing processes.
 
-With the knowledge base I am building, I want to create software solutions that have a positive impact on healthcare and/or education systems.
-
+I am motivated by creativity and helping others, it was because of this that I chose to pivot my career into Front-End Development.
 
 #### My Skill Set
  
