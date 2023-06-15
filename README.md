@@ -2,9 +2,7 @@
 
 I am a Certified Software Engineer with a background in Industrial Engineering.
 
-I’ve spent seven years in the tech industry focusing on the improvement of manufacturing processes.
-
-I am motivated by creativity and helping others, it was because of this that I chose to pivot my career into Front-End Development.
+My career aspirations are to build software solutions that make a tangible impact on the problems in the world that truly matter to me—the ones that often feel like a lost cause.
 
 #### My Skill Set
  
