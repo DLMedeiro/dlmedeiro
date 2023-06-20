@@ -1,8 +1,6 @@
 ## Hello! I’m Danielle Aranda.  👋
 
-I am a Certified Software Engineer with a background in Industrial Engineering.
-
-My career aspirations are to build software solutions that make a tangible impact on the problems in the world that truly matter to me—the ones that often feel like a lost cause.
+As an experienced professional transitioning from Industrial Engineering to Software Engineering, I possess a commitment to continuous improvement and iterative development. I am actively pursuing opportunities where I can make a tangible difference in people's lives by tackling complex problems on a global scale. 
 
 #### My Skill Set
  
